@@ -1,0 +1,218 @@
+{
+  "round-Trip": [
+    {
+      "id": "1",
+      "origen": "Medellín",
+      "destino": "Bogotá",
+      "fecha_salida": "2023-11-10 08:00:00",
+      "fecha_retorno": "2023-11-13T09:30:00Z",
+      "precio": 300.00,
+      "disponibilidad": 150,
+      "hora_salida": [
+        {
+          "hora_1": "06:00 a.m.",
+          "aerolinea": "HorizontJet",
+          "img-aerolinea": "" 
+        },
+        {
+          "hora_2": "08:00 a.m. - 09:00 p.m.",
+          "aerolinea": "Altitude-Airways",
+          "img-aerolinea": ""
+        },
+        {
+          "hora_3": "13:00 p.m. - 14:00 p.m.",
+          "aerolinea": "Cloudy-Airlines",
+          "img-aerolinea": ""
+        },
+        {
+          "hora_4": "18:00 p.m. - 19:00 p.m.",
+          "aerolinea": "Fly-Scape",
+          "img-aerolinea": ""
+        }
+      ],
+      "hora_retorno": [
+        {
+          "hora_1": "07:00 a.m.",
+          "aerolinea": "HorizontJet",
+          "img-aerolinea": ""
+          
+        },
+        {
+          "hora_2": "15:00 p.m. - 18:00 p.m.",
+          "aerolinea": "Altitude-Airways",
+          "img-aerolinea": ""
+        },
+        {
+          "hora_3": "10:00 a.m. - 12:00 p.m.",
+          "aerolinea": "Cloudy-Airlines",
+          "img-aerolinea": ""
+        },
+        {
+          "hora_4": "18:00 p.m. - 19:00 p.m.",
+          "aerolinea": "Fly-Scape",
+          "img-aerolinea": ""
+        }
+      ]
+
+    },
+    {
+      "id": "2",
+      "origen": "Cartagena",
+      "destino": "Santa Marta",
+      "fecha_salida": "2023-11-11T12:00:00Z",
+      "fecha_retorno": "2023-11-12T14:30:00Z",
+      "precio": 250.00,
+      "disponibilidad": 20,
+      "hora_salida": [
+        {
+          "hora_1": "10:00 a.m. - 12:00 p.m.",
+          "aerolinea": "HorizontJet",
+          "img-aerolinea": ""
+          
+        },
+        {
+          "hora_2": "15:00 p.m. - 18:00 p.m.",
+          "aerolinea": "Altitude-Airways",
+          "img-aerolinea": ""
+        },
+        {
+          "hora_3": "10:00 a.m. - 12:00 p.m.",
+          "aerolinea": "Cloudy-Airlines",
+          "img-aerolinea": ""
+        }
+      ],
+      "hora_retorno": [
+        {
+          "hora_1": "10:00 a.m. - 12:00 p.m.",
+          "aerolinea": "HorizontJet",
+          "img-aerolinea": ""
+          
+        },
+        {
+          "hora_2": "15:00 p.m. - 18:00 p.m.",
+          "aerolinea": "Altitude-Airways",
+          "img-aerolinea": ""
+        },
+        {
+          "hora_3": "10:00 a.m. - 12:00 p.m.",
+          "aerolinea": "Cloudy-Airlines",
+          "img-aerolinea": ""
+        }
+      ]
+
+    },
+    {
+      "id": "3",
+      "origen": "Medellín",
+      "destino": "Estados Unidos",
+      "fecha_salida": "2023-11-10T08:00:00Z",
+      "fecha_retorno": "2023-11-13T10:30:00Z",
+      "precio": 300.00,
+      "disponibilidad": 50,
+      "hora_salida": [
+        {
+          "hora_1": "10:00 a.m. - 12:00 p.m.",
+          "aerolinea": "HorizontJet",
+          "img-aerolinea": ""
+          
+        },
+        {
+          "hora_2": "15:00 p.m. - 18:00 p.m.",
+          "aerolinea": "Altitude-Airways",
+          "img-aerolinea": ""
+        },
+        {
+          "hora_3": "10:00 a.m. - 12:00 p.m.",
+          "aerolinea": "Cloudy-Airlines",
+          "img-aerolinea": ""
+        }
+      ],
+      "hora_retorno": [
+        {
+          "hora_1": "10:00 a.m. - 12:00 p.m.",
+          "aerolinea": "HorizontJet",
+          "img-aerolinea": ""
+          
+        },
+        {
+          "hora_2": "15:00 p.m. - 18:00 p.m.",
+          "aerolinea": "Altitude-Airways",
+          "img-aerolinea": ""
+        },
+        {
+          "hora_3": "10:00 a.m. - 12:00 p.m.",
+          "aerolinea": "Cloudy-Airlines",
+          "img-aerolinea": ""
+        }
+      ]
+
+    }
+
+  ],
+  "one-Way": [
+    {
+      "id": "1",
+      "origen": "Medellín",
+      "destino": "Miami",
+      "fecha_salida": "2023-10-10T08:00:00Z",
+      "fecha_llegada": "2023-10-10T10:30:00Z",
+      "precio": 300.00,
+      "disponibilidad": 50,
+      "hora_salida": [
+        {
+          "hora_1": "10:00 a.m. - 12:00 p.m.",
+          "aerolinea": "HorizontJet",
+          "img-aerolinea": ""
+          
+        },
+        {
+          "hora_2": "15:00 p.m. - 18:00 p.m.",
+          "aerolinea": "Altitude-Airways",
+          "img-aerolinea": ""
+        },
+        {
+          "hora_3": "10:00 a.m. - 12:00 p.m.",
+          "aerolinea": "Cloudy-Airlines",
+          "img-aerolinea": ""
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "origen": "Otra Ciudad",
+      "destino": "Otra Ciudad Destino",
+      "fecha_salida": "2023-10-11T12:00:00Z",
+      "fecha_llegada": "2023-10-11T14:30:00Z",
+      "precio": 250.00,
+      "disponibilidad": 20
+    }
+  ],
+  "tickets": [
+    {
+      "id": "12345",
+      "nombre_pasajero": "Nombre Apellido",
+      "vuelo_id": "1",
+      "fecha_compra": "2023-10-05T15:30:00Z",
+      "asiento": "A3",
+      "precio_total": 300.00
+    },
+    {
+      "id": "54321",
+      "nombre_pasajero": "Otro Nombre",
+      "vuelo_id": "2",
+      "fecha_compra": "2023-10-06T09:45:00Z",
+      "asiento": "B1",
+      "precio_total": 250.00
+    }
+  ],
+"asientos":{
+        "clase_economica": {
+          "filas": 10,
+          "asientos_por_fila": 6,
+          "asientos_disponibles": [
+            ["A1", "A2", "A3", "A4", "A5", "A6"],
+            ["B1", "B2", "B3", "B4", "B5", "B6"]
+          ]
+        }
+  }
+}
